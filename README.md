@@ -1,0 +1,1 @@
+# terraform-gcp-kopicloud-ad-api-instance-win2022
